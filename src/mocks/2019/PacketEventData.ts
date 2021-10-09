@@ -13,7 +13,7 @@ export const PACKET_EVENT_DATA_PARSED_2019 = {
     m_sessionTime: 84.59061431884766,
     m_frameIdentifier: 1686,
     m_playerCarIndex: 19,
-    m_sessionUID: 13289573494424022454n,
+    m_sessionUID: 13289573494424022454,
   },
   vehicleIdx: 3,
   m_eventStringCode: 'FTLP',

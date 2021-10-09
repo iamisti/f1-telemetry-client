@@ -76,7 +76,7 @@ export const PACKET_PARTICIPANTS_DATA_PARSED_2019 = {
     m_packetVersion: 1,
     m_playerCarIndex: 19,
     m_sessionTime: 11.229784965515137,
-    m_sessionUID: 11338559481597364306n,
+    m_sessionUID: 11338559481597364306,
   },
   m_numActiveCars: 20,
   m_participants: [

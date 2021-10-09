@@ -66,7 +66,7 @@ export const PACKET_CAR_SETUP_DATA_PARSED_2019 = {
     m_packetVersion: 1,
     m_packetId: 5,
     m_sessionTime: 14.057804107666016,
-    m_sessionUID: 11338559481597364306n,
+    m_sessionUID: 11338559481597364306,
     m_frameIdentifier: 292,
     m_playerCarIndex: 19,
   },

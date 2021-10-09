@@ -101,7 +101,7 @@ export const PACKET_CAR_TELEMETRY_DATA_PARSED_2019 = {
     m_sessionTime: 12.023606300354004,
     m_frameIdentifier: 248,
     m_playerCarIndex: 19,
-    m_sessionUID: 11338559481597364306n,
+    m_sessionUID: 11338559481597364306,
   },
   m_carTelemetryData: [
     {

@@ -32,7 +32,7 @@ export const PACKET_SESSION_DATA_PARSED_2020 = {
     m_playerCarIndex: 19,
     m_secondaryPlayerCarIndex: 255,
     m_sessionTime: 3410.19677734375,
-    m_sessionUID: 8920761902227862750n,
+    m_sessionUID: 8920761902227862750,
   },
   m_isSpectating: 0,
   m_marshalZones: [

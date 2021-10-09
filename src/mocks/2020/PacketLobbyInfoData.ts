@@ -86,7 +86,7 @@ export const PACKET_LOBBY_INFO_DATA_PARSED_2020 = {
     m_playerCarIndex: 19,
     m_secondaryPlayerCarIndex: 255,
     m_sessionTime: 2382.888427734375,
-    m_sessionUID: 0n,
+    m_sessionUID: 0,
   },
   m_lobbyPlayers: [
     {

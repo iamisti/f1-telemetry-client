@@ -98,7 +98,7 @@ export const PACKET_CAR_STATUS_DATA_PARSED_2020 = {
     m_gameMinorVersion: 7,
     m_packetVersion: 1,
     m_packetId: 7,
-    m_sessionUID: 8920761902227862750n,
+    m_sessionUID: 8920761902227862750,
     m_sessionTime: 5067.16455078125,
     m_frameIdentifier: 102774,
     m_playerCarIndex: 19,

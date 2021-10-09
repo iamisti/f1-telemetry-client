@@ -400,7 +400,7 @@ export const PACKET_FINAL_CLASSIFICATION_DATA_PARSED_2020 = {
     m_playerCarIndex: 19,
     m_secondaryPlayerCarIndex: 255,
     m_sessionTime: 2382.888427734375,
-    m_sessionUID: 15667368907113941736n,
+    m_sessionUID: 15667368907113941736,
   },
   m_numCars: 20,
 };

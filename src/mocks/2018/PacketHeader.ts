@@ -79,5 +79,5 @@ export const PACKET_HEADER_PARSED_2018 = {
   m_sessionTime: 7.6248016357421875,
   m_frameIdentifier: 157,
   m_playerCarIndex: 0,
-  m_sessionUID: 15670751630327216549n,
+  m_sessionUID: 15670751630327216549,
 };

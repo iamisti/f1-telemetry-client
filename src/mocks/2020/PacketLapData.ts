@@ -88,7 +88,7 @@ export const PACKET_LAP_DATA_PARSED_2020 = {
     m_gameMinorVersion: 8,
     m_packetVersion: 1,
     m_packetId: 2,
-    m_sessionUID: 6053102067826363680n,
+    m_sessionUID: 6053102067826363680,
     m_sessionTime: 1677.1124267578125,
     m_frameIdentifier: 33611,
     m_playerCarIndex: 19,

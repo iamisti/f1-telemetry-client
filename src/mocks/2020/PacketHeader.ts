@@ -99,5 +99,5 @@ export const PACKET_HEADER_PARSED_2020 = {
   m_playerCarIndex: 19,
   m_secondaryPlayerCarIndex: 255,
   m_sessionTime: 885.5430297851562,
-  m_sessionUID: 6053102067826363680n,
+  m_sessionUID: 6053102067826363680,
 };

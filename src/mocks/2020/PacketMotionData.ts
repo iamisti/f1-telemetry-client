@@ -106,7 +106,7 @@ export const PACKET_MOTION_DATA_PARSED_2020 = {
     m_gameMinorVersion: 8,
     m_packetVersion: 1,
     m_packetId: 0,
-    m_sessionUID: 6053102067826363680n,
+    m_sessionUID: 6053102067826363680,
     m_sessionTime: 2011.1007080078125,
     m_frameIdentifier: 40470,
     m_playerCarIndex: 19,

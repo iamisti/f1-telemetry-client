@@ -24,7 +24,7 @@ export const PACKET_SESSION_DATA_PARSED_2019 = {
     m_packetVersion: 1,
     m_playerCarIndex: 19,
     m_sessionTime: 10.792155265808105,
-    m_sessionUID: 11338559481597364306n,
+    m_sessionUID: 11338559481597364306,
   },
   m_isSpectating: 0,
   m_marshalZones: [

@@ -87,5 +87,5 @@ export const PACKET_HEADER_PARSED_2019 = {
   m_packetVersion: 1,
   m_playerCarIndex: 19,
   m_sessionTime: 13.047504425048828,
-  m_sessionUID: 11338559481597364306n,
+  m_sessionUID: 11338559481597364306,
 };

@@ -68,7 +68,7 @@ export const PACKET_LAP_DATA_PARSED_2019 = {
     m_sessionTime: 13.459443092346191,
     m_frameIdentifier: 278,
     m_playerCarIndex: 19,
-    m_sessionUID: 11338559481597364306n,
+    m_sessionUID: 11338559481597364306,
   },
   m_lapData: [
     {

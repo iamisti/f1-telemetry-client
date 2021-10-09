@@ -101,7 +101,7 @@ export const PACKET_MOTION_DATA_PARSED_2019 = {
     m_sessionTime: 13.754075050354004,
     m_frameIdentifier: 284,
     m_playerCarIndex: 19,
-    m_sessionUID: 11338559481597364306n,
+    m_sessionUID: 11338559481597364306,
   },
   m_carMotionData: [
     {

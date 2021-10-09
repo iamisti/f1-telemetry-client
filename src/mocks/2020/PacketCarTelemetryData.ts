@@ -477,7 +477,7 @@ export const PACKET_CAR_TELEMETRY_DATA_PARSED_2020 = {
     m_playerCarIndex: 19,
     m_secondaryPlayerCarIndex: 255,
     m_sessionTime: 4635.4599609375,
-    m_sessionUID: 8920761902227862750n,
+    m_sessionUID: 8920761902227862750,
   },
   m_mfdPanelIndex: 255,
   m_mfdPanelIndexSecondaryPlayer: 255,
